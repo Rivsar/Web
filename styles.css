@@ -1,4 +1,22 @@
-body
-{
-  font-size: 40pt;
-}
+<!-- MAIN (Center website) -->
+ <div class="main">
+ 
+ <h1>PROFIL</h1>
+ <hr>
+ 
+ <h2>No Induk: 192010033 </h2>
+ <H2>Nama    : RIZKI RAHMAT DANI </>
+ <h2>Kelas   : XI TKJ 2
+ <link rel="stylesheet" type="text/css" href="styles.css">
+ <div class="row">
+ <div class="column">
+ <div class="content">
+ <img src="Rizki.png" alt="Mountains" style="width:100%">
+ <h3></h3>
+ <p></p>
+ </div>
+ </div>
+ 
+ 
+ <!-- END MAIN -->
+ </div>
